@@ -1,4 +1,4 @@
-# milk-run-model
+# VRP_modeling with clustering and limited stops
 This is the logisitc network design solution serves optimization cost reduction thru finding short distance from vertices in the graph
 Run model sequentially: 
 - clustering_manin.py
